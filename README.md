@@ -2,7 +2,7 @@
 
 A fast, minimalist grocery shopping assistant built with Next.js and the Web Speech API. It recognizes natural voice commands in **English, Hindi (हिंदी), and Spanish (Español)**, auto-categorizes items, handles pricing in Indian Rupees (Rs.), provides seasonal/substitute recommendations, and works completely offline with an optional Gemini AI mode.
 
-🔗 **Live Demo:** [https://voice-command-groceryl-ist.vercel.app](https://voice-command-groceryl-ist.vercel.app)
+🔗 **Live Demo:** [https://voicecommandgrocerylist.netlify.app/](https://voicecommandgrocerylist.netlify.app/)
 
 ---
 
